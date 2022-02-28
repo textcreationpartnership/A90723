@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pitiful remonstrance; or just complaint made to all free-born true-hearted Englishmen, sensible of the kingdoms miserable slavery. From all the poor afflicted and miserable, inslaved and immured prisoners for debt, contempts, and other trivial matters; ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90723</idno>
+            <idno type="STC">Wing P2296</idno>
+            <idno type="STC">Thomason 669.f.12[68]</idno>
+            <idno type="STC">ESTC R210934</idno>
+            <idno type="EEBO-CITATION">99869682</idno>
+            <idno type="PROQUEST">99869682</idno>
+            <idno type="VID">162861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90723)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162861)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f12[68])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pitiful remonstrance; or just complaint made to all free-born true-hearted Englishmen, sensible of the kingdoms miserable slavery. From all the poor afflicted and miserable, inslaved and immured prisoners for debt, contempts, and other trivial matters; ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Includes verse at end of text.</note>
+                  <note>Annotation on Thomason copy: "July 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="complaint">
+            <pb facs="tcp:162861:1" rendition="simple:additions"/>
+            <head>A pittifull Remonſtrance, or juſt Complaint MADE</head>
+            <head type="sub">
+               <hi>To all free-born true-hearted Engliſhmen, ſenſible of the Kingdoms miſerable ſlavery. From all the poor afflicted and miſerable, inſlaved and immured Priſoners for Debt, Contempts, and other trivial matters; Mr.</hi> John Rayment, <hi>a man of known fidelity, being</hi> 500. l. <hi>out for the State, yet having been moſt unjuſtly held in ſuit theſe</hi> 12 <hi>years in the Court of Requeſt and Chancery for pretended Debt of</hi> 537 l. 19 s. 6 d <hi>by one</hi> John Johns: <hi>although neuer a pen y proued againſt him, but hath been cleared by Mr.</hi> Leigh. <hi>and Mr</hi> Northy <hi>Merchants of known ability, to whom it was referred, who brought upon acocmpt</hi> 54. l. <hi>due to the ſaid</hi> Rayment; <hi>yet did that corrupt Judg</hi> Mancheſter, <hi>after he had pronounced him clear, in the open Court, yet in private ſuffered it to go on in ſute, and being here twelve years, Mr. Speaker ordered, the</hi> 537. <hi>l.</hi> 19. <hi>s.</hi> 6. <hi>d. to be brought into the Court, and then they ſhould have a trial, though never a penny proved to be due upon the not doing, of which he is committed to the Fleet in his old days, there to end his days without ſome courſe of Iuſtice be taken, which he always deſired: The ſaid</hi> Johns <hi>having nei<g ref="char:EOLhyphen"/>ther Bill, Bond, Hand, or any Witneſs againſt him, to prove penny or pennyworth due. In all the ſeveral murdering ſlaughter-houſes, and dens of cruelty, called Gaols, Priſons, and Comptors, within the Kingdom of England, and principality of Wales, about</hi> 20000 <hi>in number.</hi>
+            </head>
+            <opener>
+               <salute>SHEWETH,</salute>
+            </opener>
+            <p>THat we the oppreſſed priſoners have <hi>(though fruitleſs)</hi> for theſe ſeven years by our humble Petitions addreſſed our ſelves to the high Court of Parliament, craving deliverance <hi>from this unjust, inhumane ſlavery of impriſonment for debt,</hi> illegally faſtned, as on us, ſo, on this whole Nati<g ref="char:EOLhyphen"/>on and their poſterity, contrary to <hi>the Law of God, and the fundamental great Charter of Englands Liberty,</hi> and the Parliaments ſeveral <hi>Declarations, Manifeſtations, Proteſtations, and Imprecations,</hi> and to the truſt repoſed in them at their Election, as the Kingdoms Stewards to ſee <hi>Injuſtice and Oppreſſion baniſhed the Land, and Juſtice and Mercy recalled and eſtabliſhed,</hi> where the inſlaved priſoners are buried alive, and rob<g ref="char:EOLhyphen"/>bed of their Eſtates, Callings, and precious Liberties, contrary to the true Liberty of the Commons of <hi>England;</hi> as appeareth plainly by <hi>Regiſter. folio.</hi> 77. <hi>Dehomino Replegiando, folio</hi> 66. the 3 of <hi>Edward,</hi> the 1. <hi>chap.</hi> 15. the 25. of <hi>Edward,</hi> 3 <hi>chap.</hi> 4. where it appeareth, That the body of <hi>no Commoner of England is to be impriſoned for Debt,</hi> but only for <hi>Murther, Fellony</hi> and <hi>Treaſon,</hi> Niſi per legem terrae, the 9. of <hi>Henry,</hi> the 3. <hi>chap.</hi> 29. the 52. of <hi>Henry</hi> the 3. <hi>chap.</hi> 5. and the 14. of <hi>Edward</hi> the 3. <hi>chap.</hi> 1. and <hi>Abridgment of Statutes, folio</hi> 65. <hi>&amp;</hi> 6. as alſo by the <hi>Petition of Right,</hi> in the 3. of <hi>King Charles,</hi> confirmed this Seſſion of Parliament, and it appeareth by the Statute of the 42. of <hi>Edward</hi> the 3. <hi>chap.</hi> 1. That all Statutes which have bin ſince made, <hi>to the inſringement of the Subjects Liberty, contrary to Magna Charta,</hi> are abſolutely voyd, and of none effect, as if they had never been made, <hi>and reaſon good, for the leſſer and latter muſt needs give place to the greater, and Mother Law of this Kingdom</hi>
+            </p>
+            <p>Thus you ſee, dear Countrymen and fellow Commoners, it appeareth clearly, that impriſonment of the perſons of the free Commons of <hi>England</hi> for debt, (which had its riſe and original but from the time of <hi>Henry</hi> the 8. at his diſſolution of Abbies, Frieries, and Nunneries,) is only an unjuſt, illegal, ſlaviſh Innovation faſtned upon us, the free Commons of <hi>England,</hi> within theſe hundred years, by the ſubtile, diabolical practiſe of ambitious, unjuſt Judges, and by evil minded, covetous, exacting Lawyers, whoſe beginning and riſe alſo was with <hi>Ignatius Loyola,</hi> the Infernal Father and Founder of the order of <hi>Jeſuites,</hi> about an hundred years ſince, under whoſe heavy, ſlaviſh yokes of Injuſtice, Tyranny and Oppreſſion, this Common-wealth hath long groaned, and doth ſtill groan: Witneſs the many thouſands of ſtained houſes, and ancient families in this Kingdom.</p>
+            <p>Nor can this great <hi>oppreſſing evil</hi> be ever redreſſed, unleſs theſe wicked Mercenary, Contentious Inſtruments of Injuſtice and oppreſſion (the Lawyers) <note place="margin">No Lawyers ſuffered to fit in Parliament, or in any great Coun<g ref="char:EOLhyphen"/>cel, in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> nor in a<g ref="char:EOLhyphen"/>ny other King<g ref="char:EOLhyphen"/>dom, but only in <hi>England.</hi> Many hun<g ref="char:EOLhyphen"/>dred of poor Chriſtians have been murdered, ſtarved &amp; de<g ref="char:EOLhyphen"/>ſtroyed, in the Gaols of <hi>Kings Bench,</hi> the <hi>Fleet Newgate,</hi> and in divers o<g ref="char:EOLhyphen"/>ther Priſons; by the Gaol<g ref="char:EOLhyphen"/>ers, their Clarks and Servants; as will be proved when ever by Iuſtice re<g ref="char:EOLhyphen"/>quired.</note> be quite expelled the Houſe of Commons, as the proud Lordly Biſhops were out of the Houſe of Lords; a Lawyer being no more fit to be choſen for a Parliament man then a Butcher, or a Gaoler, for a Jury man, much leſs for a Juſtice of Peace. For we, the Commons of <hi>England,</hi> muſt not expect, that theſe Mercenary Lawyers will ever ſuffer the Conduite of Juſtice to be opened, or the free and clear currant thereof to overflow and drown their Infernal, Impious, gainful, filthy, raging waters of contention: ſo long as they can keep the ſtaff of honor, credit, reſpect, and power in their hands, and by their wicked, gainful Inſtruments the bloody Gaolers, Bayliffs, Sergeants, Atturnies and Solicitors, bring all the Wealth or Grayn of the Kingdom to their im<g ref="char:EOLhyphen"/>pious, abhominable Mills of contention, corruptly called Courts of Juſtice, or rather of Fees and Bribes, where they grind the faces of the poor, the wid<g ref="char:EOLhyphen"/>dow, the fatherleſs and the ſtranger even to duſt, and devour their eſtates, liberties and lives.</p>
+            <p>The aboveſaid particulars being by you, dear Countrymen and fellow feeling Commoners, truly and ſeriouſly conſidered:</p>
+            <p>Our humble and earneſt requeſt unto you is, That you would be pleaſed by ſome ſpeedy, juſt and pious courſe (in your addreſſes to the high Court of Parliament) to acquit your ſelves and us, and the poſterity of this whole Nation. from this inhumane, cruel bondage, and ſtarving condition of Being, that ſo our lives, and the lives of our wives and children may be preſerved from periſhing, and we by our liberties thus regained, may be inabled in and by our ſeveral Callings, to provide for our and their future ſubſiſtance.</p>
+            <p>And Courteous Readers, We beſeech you in the bowels of compaſsion, to ſuffer this our pittiful complaint to ſtand, that ſo all may ſee and read it, and by it may become ſenſible of this our inhumane, cruel, ſlaviſh, ſtarving condition of Being, not to be paraleld by any other Country, or in any other King<g ref="char:EOLhyphen"/>dom, <hi>Chriſtian</hi> or <hi>Pagan,</hi> within the confines of <hi>Europe, Aſia, Africa,</hi> nor <hi>America,</hi> being a cruelty repugnant to the Law of God, of all o<g ref="char:EOLhyphen"/>ther Nations, and of this Kingdom.</p>
+            <p>In the <hi>Fleet,</hi> Priſoners upon contempt.</p>
+            <p n="1">1 Mr. <hi>Robert Ramſey</hi> hath 700. <hi>l. per annum,</hi> unjuſtly kept from him by Sir <hi>Tho. Walſingham,</hi> and yet kept in priſon by him upon a pretended contempt theſe 12. or 13. years.</p>
+            <p n="2">2. <hi>Henry Adis,</hi> whoſe cruel Adverſary <hi>Keyzar</hi> (by Mr. <hi>Lenthal,</hi> the Speakers unjuſt practiſes) illegally turns <hi>Adis</hi> out of his houſe, ſeaſes upon all his goods, and upon a pretended contempt keeps <hi>Adis</hi> cloſe priſoner in the <hi>Fleet.</hi>
+            </p>
+            <p n="3">3. <hi>Robert Cole</hi> (now more then two years) illegally detained priſoner by the Warden of the <hi>Fleet,</hi> upon a pretended contempt, obtained againſt him by his Adverſary <hi>Bayber,</hi> who is 2000. <hi>l.</hi> indebted to <hi>Cole,</hi> and <hi>Cole</hi> oweth him nothing.</p>
+            <p n="4">4. <hi>James Freſe</hi> Marchant (upon a private verbal command from the Speaker, (Mr. <hi>Lenthal)</hi> and his brother Sir <hi>John Lenthal,)</hi> hath been theſe two years, and four moneths, (and is ſtill) kept cloſe priſoner in the <hi>Tower Chamber</hi> by the Warden of the <hi>Fleet.</hi>
+            </p>
+            <p n="5">5. Captain <hi>Sanford,</hi> who, in the ſervice of the Kingdom, hath adventured both eſtate and life, to whom are great ſums due from the State, was taken and impriſoned upon a pretended contempt, out of the <hi>Chancery,</hi> although he hath proved, that he was not ſerved with any <hi>Subpaena</hi> in the cauſe; and alſo that he was then in actual ſervice for the Parliament, far remote from his houſe.</p>
+            <p>Theſe, and many other ſuch like cruel, illegal practiſes in the Law, expoſes and inſlaves all the Commons of <hi>England</hi> in their Lives, Eſtates and Liberties, to the imperious will of greatneſs, and to the rage and cruelty of their Adverſaries, Lawyers and Gaolers. Although they know, that only the poor priſoners future endeavours by liberty enjoyed, muſt give ſome hope to the <hi>Creditor,</hi> of ſatisfaction for his debt, although not in whole, yet in part, which is better then the loſs of all their debt. Beſides, the guilt of the poor priſoners blood, and the periſhing condition of his poor wife and children to lie upon him. Un<g ref="char:EOLhyphen"/>der the impious, heavy burden, of which ſeveral great cruelties this whole Land groaneth.</p>
+            <l>
+               <hi>And thus it plainly doth appear,</hi>
+            </l>
+            <l>
+               <hi>That Lawyers do rule all things there.</hi>
+            </l>
+            <l>
+               <hi>Where we expected Juſtice, that the Speaker</hi>
+            </l>
+            <l>
+               <hi>Rules Lawyers, the Gaoler rules the Speaker,</hi>
+            </l>
+            <l>
+               <hi>But himſelf in every thing</hi>
+            </l>
+            <l>
+               <hi>Is ruled by that wicked ſting.</hi>
+            </l>
+            <l>
+               <hi>Of Death and Hell, named</hi> Thomas Dudſon,</l>
+            <l>
+               <hi>Who is none other then the Devils godſon,</hi>
+            </l>
+            <l>
+               <hi>Directed always, by that fiend of Hell,</hi>
+            </l>
+            <l>
+               <hi>For all his actions in cruelties excel.</hi>
+            </l>
+            <l>
+               <hi>Thus Englands Steed is carryed ſtill</hi>
+            </l>
+            <l>
+               <hi>By</hi> Lenthals, Dudſons, <hi>and the Devils will,</hi>
+            </l>
+            <l>
+               <hi>Rub'd and furbiſht by the Lawyers Fees,</hi>
+            </l>
+            <l>
+               <hi>The Prieſtly tythes have brought him on his knees,</hi>
+            </l>
+            <l>
+               <hi>And Gaoler cruelties have made him lame,</hi>
+            </l>
+            <l>
+               <hi>Are not theſe imps of Hell for this to blame?</hi>
+            </l>
+            <l>
+               <hi>Yea, worthy to be whipt, their proper fee,</hi>
+            </l>
+            <l>
+               <hi>Being just ſentence, and the triple tree.</hi>
+            </l>
+            <l>
+               <hi>Juſtice, and Mercy, preſerves the Land, and all</hi>
+            </l>
+            <l>
+               <hi>Her Sons and Daughters, from ruins final fall,</hi>
+            </l>
+            <l>
+               <hi>But they that Juſtice, Truth, and Mercy ſlight</hi>
+            </l>
+            <l>
+               <hi>Are foes to Christ, deſpiſed in his ſight.</hi>
+            </l>
+            <l>
+               <hi>O then let Juſtice, Truth, and Mercy ſway,</hi>
+            </l>
+            <l>
+               <hi>That ſo from England, wrath may flie away,</hi>
+            </l>
+            <l>
+               <hi>And Mercy, Truth, and Juſtice, then may dwell</hi>
+            </l>
+            <l>
+               <hi>Within our Land, till then 'twill ne're be well.</hi>
+            </l>
+         </div>
+      </body>
+   </text>
+</TEI>
